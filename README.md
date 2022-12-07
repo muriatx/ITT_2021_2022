@@ -6,6 +6,8 @@ Ingeniaritza Telematikoko Teknologia irakasgairako proba
 
 ~~~sh
 https://www.hostinger.es/tutoriales/comandos-de-git
+
+https://rogerdudler.github.io/git-guide/index.es.html
 ~~~
 
 1. Poned en marcha la máquina virtual Ubuntu 20.04 que se encuentra en el Virtual Box.
