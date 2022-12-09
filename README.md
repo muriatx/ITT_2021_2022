@@ -4,6 +4,26 @@
 
 Ingeniaritza Telematikoko Teknologia irakasgairako proba
 
+## …or create a new repository on the command line
+
+~~~sh
+echo "# ITT_2021_2022" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/muriatx/ITT_2021_2022.git
+git push -u origin main
+~~~
+
+## …or push an existing repository from the command line
+
+~~~sh
+git remote add origin https://github.com/muriatx/ITT_2021_2022.git
+git branch -M main
+git push -u origin main
+~~~
+
 ~~~sh
 https://www.hostinger.es/tutoriales/comandos-de-git
 
